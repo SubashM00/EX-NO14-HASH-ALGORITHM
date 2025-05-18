@@ -81,8 +81,7 @@ int main() {
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/40d9af0d-cecb-4076-9735-038d0bf1897b)
-
+![Screenshot 2025-05-18 160347](https://github.com/user-attachments/assets/55071aac-7813-4d64-bc61-bcd122c3ccbb)
 
 ## Result:
 The program is executed successfully.
